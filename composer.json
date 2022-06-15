@@ -1,1 +1,8 @@
-Ashu
+{
+   "name": "AshuKhattriCEDCOSS/ComposerGit",
+    "description": "product data table",
+    "version" : "1.0",
+    "require": {
+        "php": ">=7.4"
+    }
+}
